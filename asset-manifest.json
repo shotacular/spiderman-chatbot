@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spiderman-chatbot/static/css/main.01850240.chunk.css",
+    "main.js": "/spiderman-chatbot/static/js/main.cbeeee3f.chunk.js",
+    "main.js.map": "/spiderman-chatbot/static/js/main.cbeeee3f.chunk.js.map",
+    "runtime-main.js": "/spiderman-chatbot/static/js/runtime-main.0dedcbd3.js",
+    "runtime-main.js.map": "/spiderman-chatbot/static/js/runtime-main.0dedcbd3.js.map",
+    "static/js/2.d61570ec.chunk.js": "/spiderman-chatbot/static/js/2.d61570ec.chunk.js",
+    "static/js/2.d61570ec.chunk.js.map": "/spiderman-chatbot/static/js/2.d61570ec.chunk.js.map",
+    "static/js/3.db3d186e.chunk.js": "/spiderman-chatbot/static/js/3.db3d186e.chunk.js",
+    "static/js/3.db3d186e.chunk.js.map": "/spiderman-chatbot/static/js/3.db3d186e.chunk.js.map",
+    "index.html": "/spiderman-chatbot/index.html",
+    "static/css/main.01850240.chunk.css.map": "/spiderman-chatbot/static/css/main.01850240.chunk.css.map",
+    "static/js/2.d61570ec.chunk.js.LICENSE.txt": "/spiderman-chatbot/static/js/2.d61570ec.chunk.js.LICENSE.txt",
+    "static/media/no-profile.67b6df19.png": "/spiderman-chatbot/static/media/no-profile.67b6df19.png",
+    "static/media/index.css": "/spiderman-chatbot/static/media/spider-logo.c94bb8b7.jpg",
+    "static/media/spiderman.35504a80.png": "/spiderman-chatbot/static/media/spiderman.35504a80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dedcbd3.js",
+    "static/js/2.d61570ec.chunk.js",
+    "static/css/main.01850240.chunk.css",
+    "static/js/main.cbeeee3f.chunk.js"
+  ]
+}
